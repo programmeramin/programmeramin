@@ -41,6 +41,23 @@ Backend
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Bun.js](https://img.shields.io/badge/Bun.js-000000?style=for-the-badge&logo=bun&logoColor=white)
 
+Database
+------------------------------------------------------------------------------------------------------------------------
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+Version control
+-----------------------------------------------------------------------------------------------------------------------
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+
+DevOps
+-----------------------------------------------------------------------------------------------------------------------
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 🌐 Connect With Me
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/programmeramin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/programmeraminislam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/programmer_amin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://x.com/programmeramin_)  [<img src='https://static.vecteezy.com/system/resources/previews/006/892/622/non_2x/discord-logo-icons-editorial-collection-free-vector.jpg' alt='discord' height='40'>](https://discord.com/programmer_amin) 
