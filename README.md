@@ -51,6 +51,7 @@ Version control
 -----------------------------------------------------------------------------------------------------------------------
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=programmeramin&show_icons=true&theme=radical)
+![CI/CD](https://img.shields.io/badge/CI/CD-FF8800?style=for-the-badge&logo=githubactions&logoColor=white)
 
 
 DevOps
