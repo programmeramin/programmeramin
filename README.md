@@ -19,7 +19,11 @@ I'm deeply passionate about solving problems, creating meaningful user experienc
 🤝 Let’s Build Together!
 
 - 🌱 I’m currently learning
-- JavaScript, TypeScript DSA
+----------------------------------------------------------------------------------------------------------------------
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://static.vecteezy.com/system/resources/previews/009/035/982/non_2x/dsa-logo-dsa-letter-dsa-letter-logo-design-initials-dsa-logo-linked-with-circle-and-uppercase-monogram-logo-dsa-typography-for-technology-business-and-real-estate-brand-vector.jpg)
+  
   
 ## 🎨 Languages and Tools
 
