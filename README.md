@@ -21,6 +21,9 @@ I'm deeply passionate about solving problems, creating meaningful user experienc
 - 🌱 I’m currently learning
 - JavaScript, TypeScript DSA 
 
+Frontend
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNXdYNLXIBqRQuxqsiiCChoqWlnVMQ0CsBHg&s)' alt='React' height='30'>]
+
 🌐 Connect With Me
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/programmeramin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/programmeraminislam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/programmer_amin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://x.com/programmeramin_)  [<img src='https://static.vecteezy.com/system/resources/previews/006/892/622/non_2x/discord-logo-icons-editorial-collection-free-vector.jpg' alt='discord' height='40'>](https://discord.com/programmer_amin) 
