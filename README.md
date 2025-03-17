@@ -4,8 +4,9 @@
 
 I'm a self-taught Frontend-Focused JavaScript Developer with a passion for crafting interactive, user-friendly web applications. Over the years, I've tackled full-stack projects, mastering both frontend and backend development. But my true strength? Creating beautiful, intuitive interfaces that bring ideas to life.
 
-- 🌱 I’m currently learning JavaScript, TypeScript DSA 
+- 🌱 I’m currently learning
+- JavaScript, TypeScript DSA 
 
-
+🌐 Connect With Me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/programmeramin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/programmeraminislam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/programmer_amin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://x.com/programmeramin_)  [<img src='https://static.vecteezy.com/system/resources/previews/006/892/622/non_2x/discord-logo-icons-editorial-collection-free-vector.jpg' alt='discord' height='40'>](https://discord.com/programmer_amin) 
 
