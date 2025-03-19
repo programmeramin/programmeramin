@@ -43,7 +43,7 @@ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Bun.js]('https://img.shields.io/badge/Bun.js-000000?style=for-the-badge&logo=bun&logoColor=white' alt='dsa' height='30')
+![Bun.js](https://img.shields.io/badge/Bun.js-000000?style=for-the-badge&logo=bun&logoColor=white alt='bun' height='30')
 
 Database
 ------------------------------------------------------------------------------------------------------------------------
