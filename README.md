@@ -22,7 +22,6 @@ I'm deeply passionate about solving problems, creating meaningful user experienc
 ----------------------------------------------------------------------------------------------------------------------
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-[[![TypeScript](https://www.shutterstock.com/image-vector/dsa-creative-logo-monogram-white-260nw-1835276254.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/41/DSA_Logo.png)
   
 ## 🎨 Languages and Tools
 
