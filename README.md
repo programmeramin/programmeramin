@@ -51,11 +51,9 @@ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-Version control
+### 🚀 My Tech Stack:
 -----------------------------------------------------------------------------------------------------------------------
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=programmeramin&show_icons=true&theme=radical)
-### 🚀 My Tech Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -66,7 +64,6 @@ Version control
 ![Bun.js](https://img.shields.io/badge/Bun.js-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-FF8800?style=for-the-badge&logo=githubactions&logoColor=white)
 
 
 DevOps
