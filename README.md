@@ -12,7 +12,7 @@ I'm a self-taught Frontend-Focused JavaScript Developer passionate about craftin
 
 🌟 What Drives Me?
 
-I'm deeply passionate about solving problems, creating meaningful user experiences, and writing clean, maintainable code. I’m always looking for opportunities to contribute to exciting projects and grow as a developer.
+I'm passionate about solving problems, creating meaningful user experiences, and writing clean, maintainable code. I’m always looking for opportunities to contribute to exciting projects and grow as a developer.
 
 🤝 Let’s Build Together!
 
@@ -24,7 +24,7 @@ I'm deeply passionate about solving problems, creating meaningful user experienc
 
 ## 🎨 Languages and Tools
 
-Frontend
+## Frontend
 ------------------------------------------------------------------------------------------------------------------------
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -43,7 +43,7 @@ Backend
 ![Bun.js](https://img.shields.io/badge/Bun.js-000000?style=for-the-badge&logo=bun&logoColor=white)
 
 
-Database
+## Database
 ------------------------------------------------------------------------------------------------------------------------
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
