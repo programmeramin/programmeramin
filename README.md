@@ -1,5 +1,5 @@
 ## Hi there 👋,
-### I'm Amin, a Full Stack Web Application Developer from  Bangladesh. with a strong focus on building scalable and high-performing web applications.
+### I'm Amin, a Full Stack Web Application Developer from  Bangladesh. With a strong focus on building scalable and high-performing web applications.
 I'm a self-taught Frontend-Focused JavaScript Developer passionate about crafting interactive, user-friendly web applications. Over the years, I've tackled full-stack projects, mastering frontend and backend development. But my true strength is creating beautiful, intuitive interfaces that bring ideas to life.
 
 🚀 What makes me unique?
