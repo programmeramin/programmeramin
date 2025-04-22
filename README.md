@@ -24,7 +24,7 @@ I'm passionate about solving problems, creating meaningful user experiences, and
 
 # 🎨 Languages and Tools
 
-# Frontend
+## Frontend
 ------------------------------------------------------------------------------------------------------------------------
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -34,7 +34,7 @@ I'm passionate about solving problems, creating meaningful user experiences, and
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-# Backend 
+## Backend 
 ------------------------------------------------------------------------------------------------------------------------
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
@@ -43,13 +43,13 @@ I'm passionate about solving problems, creating meaningful user experiences, and
 ![Bun.js](https://img.shields.io/badge/Bun.js-000000?style=for-the-badge&logo=bun&logoColor=white)
 
 
-# Database
+## Database
 ------------------------------------------------------------------------------------------------------------------------
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-# 🚀 My Tech Stack:
+## 🚀 My Tech Stack:
 -----------------------------------------------------------------------------------------------------------------------
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -65,7 +65,7 @@ I'm passionate about solving problems, creating meaningful user experiences, and
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-# DevOps
+## DevOps
 -----------------------------------------------------------------------------------------------------------------------
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
