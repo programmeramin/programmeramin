@@ -12,7 +12,7 @@ I'm a self-taught Frontend-Focused JavaScript Developer passionate about craftin
 
 🌟 What Drives Me?
 
-I'm passionate about solving problems, creating meaningful user experiences, and writing clean, maintainable code. I’m always looking for opportunities to contribute to exciting projects and grow as a developer.
+I'm passionate about solving problems, creating meaningful user experiences, and writing clean, maintainable code. I always seeking opportunities to contribute to exciting projects and grow as a developer.
 
 🤝 Let’s Build Together!
 
@@ -22,7 +22,7 @@ I'm passionate about solving problems, creating meaningful user experiences, and
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-FFA500?style=for-the-badge&logo=codeforces&logoColor=white)
 
- 🎨 Languages and Tools
+##🎨 Languages and Tools
 
 ## Frontend
 ------------------------------------------------------------------------------------------------------------------------
