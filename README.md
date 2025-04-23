@@ -22,7 +22,7 @@ I'm passionate about solving problems, creating meaningful user experiences, and
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-FFA500?style=for-the-badge&logo=codeforces&logoColor=white)
 
-##🎨 Languages and Tools
+## 🎨 Languages and Tools
 
 ## Frontend
 ------------------------------------------------------------------------------------------------------------------------
