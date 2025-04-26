@@ -65,7 +65,7 @@ I'm passionate about solving problems, creating meaningful user experiences, and
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-# DevOps
+## DevOps
 -----------------------------------------------------------------------------------------------------------------------
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
