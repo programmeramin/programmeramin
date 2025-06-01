@@ -32,7 +32,7 @@ I'm passionate about solving problems, creating meaningful user experiences, and
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
- Backend 
+ # Backend 
 ------------------------------------------------------------------------------------------------------------------------
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
@@ -41,7 +41,7 @@ I'm passionate about solving problems, creating meaningful user experiences, and
 ![Bun.js](https://img.shields.io/badge/Bun.js-000000?style=for-the-badge&logo=bun&logoColor=white)
 
 
- Database
+# Database
 ------------------------------------------------------------------------------------------------------------------------
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
