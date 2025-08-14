@@ -1,4 +1,4 @@
-# Hi there 👋,
+## Hi there 👋,
 ### Hi, I'm Amin, a self-taught Full-Stack Developer from Bangladesh. I specialize in building scalable, high-performance web applications, focusing on crafting beautiful and user-friendly interfaces.
 
 💡 What I Bring:
