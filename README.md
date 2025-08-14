@@ -1,5 +1,5 @@
 ## Hi there 👋,
-### Hi, I'm Amin, a self-taught Full-Stack Developer from Bangladesh. I specialize in building scalable, high-performance web applications, focusing on crafting beautiful and user-friendly interfaces.
+### Hi, I'm Amin, a self-taught Full-Stack Developer from Bangladesh. I specialize in building scalable, high-performance web applications, with a focus on crafting beautiful and user-friendly interfaces.
 
 💡 What I Bring:
 🎯 Frontend Enthusiast: Passionate about building responsive, dynamic, and accessible UIs.
@@ -10,7 +10,7 @@
 
 🌟 What Drives Me?
 
-I'm passionate about solving problems, creating meaningful user experiences, and writing clean, maintainable code. I always seeking opportunities to contribute to exciting projects and grow as a developer.
+I'm passionate about solving problems, creating meaningful user experiences, and writing clean, maintainable code. I am always seeking opportunities to contribute to exciting projects and grow as a developer.
 
 🤝 Let’s Build Together!
 
