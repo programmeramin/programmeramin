@@ -1,5 +1,5 @@
 ## Hi there 👋,
-### Hi, I'm Amin, a self-taught Full-Stack Developer from Bangladesh. I specialize in building scalable, high-performance web applications, with a focus on crafting beautiful and user-friendly interfaces.
+### Hi, I'm Amin, a Full-Stack MERN Engineer focused on building scalable SaaS and AI-powered applications. I work with React, Next.js, Node.js, and MongoDB to develop production-ready systems with clean architecture and excellent user experience. Currently, I’m integrating AI/ML features into real-world apps to solve practical problems and deliver intelligent user experiences.
 
 💡 What I Bring:
 🎯 Frontend Enthusiast: Passionate about building responsive, dynamic, and accessible UIs.
@@ -59,7 +59,7 @@ I'm passionate about solving problems, creating meaningful user experiences, and
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Bun.js](https://img.shields.io/badge/Bun.js-000000?style=for-the-badge&logo=bun&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL]([https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://images.ctfassets.net/6yom6slo28h2/fJUJrqHAzWweaJZvNXgWS/446631a4e2f0cc825292c982c12e173a/postgresql.jpg?w=500&h=324&fl=progressive&q=100&fm=jpg))
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
