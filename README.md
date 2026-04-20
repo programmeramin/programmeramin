@@ -1,5 +1,5 @@
 ## Hi there 👋,
-## Hi, I'm Amin, a Full-Stack MERN Engineer focused on building scalable SaaS and AI-powered applications. I work with React, Next.js, Node.js, and MongoDB to develop production-ready systems with clean architecture and excellent user experience. Currently, I’m integrating AI/ML features into real-world apps to solve practical problems and deliver intelligent user experiences.
+#### Hi, I'm Amin, a Full-Stack MERN Engineer focused on building scalable SaaS and AI-powered applications. I work with React, Next.js, Node.js, and MongoDB to develop production-ready systems with clean architecture and excellent user experience. Currently, I’m integrating AI/ML features into real-world apps to solve practical problems and deliver intelligent user experiences.
 
 💡 What I Bring:
 🎯 Frontend Enthusiast: Passionate about building responsive, dynamic, and accessible UIs.
