@@ -77,10 +77,7 @@ I'm passionate about solving problems, creating meaningful user experiences, and
 
 # DevOps
 -----------------------------------------------------------------------------------------------------------------------
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-🌐 Connect With Me
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/programmeramin/)
