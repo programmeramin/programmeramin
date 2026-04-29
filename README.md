@@ -40,7 +40,6 @@ I'm passionate about solving problems, creating meaningful user experiences, and
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Bun.js](https://img.shields.io/badge/Bun.js-000000?style=for-the-badge&logo=bun&logoColor=white)
 
-
 # Database
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -84,7 +83,6 @@ I'm passionate about solving problems, creating meaningful user experiences, and
 🌐 Connect With Me
 
 ## 🌐 Connect with me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/programmeramin/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/programmeraminislam)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/programmer_amin/)
