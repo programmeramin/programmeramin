@@ -25,7 +25,7 @@
 I am a **Full-Stack Software Engineer** specializing in the MERN stack, Next.js, and modern Web Architectures. I build scalable, production-ready SaaS applications with an emphasis on clean architecture, performance, and seamless user experience. Currently, I am focused on bridging full-stack development with **AI/ML workflows** to build intelligent, real-world products.
 
 - 💼 **Current Focus:** Building scalable web applications & integrating AI/ML models.
-- 🎯 **Strengths:** Clean Architecture, Responsive UI/UX, RESTful & GraphQL APIs, Database Optimization.
+- 🎯 **Strengths:** Clean Architecture, Responsive UI/UX, RESTful APIs, Database Optimization.
 - 🚀 **Goal:** Creating impactful end-to-end software solutions.
 
 ---
@@ -47,7 +47,6 @@ I am a **Full-Stack Software Engineer** specializing in the MERN stack, Next.js,
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/Bun.js-000000?style=for-the-badge&logo=bun&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
