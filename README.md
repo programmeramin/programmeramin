@@ -45,7 +45,6 @@ I am a **Full-Stack Software Engineer** specializing in the MERN stack, Next.js,
 #### ⚙️ Backend Development & Cloud
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Bun.js](https://img.shields.io/badge/Bun.js-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 #### 🗄️ Database Technologies
